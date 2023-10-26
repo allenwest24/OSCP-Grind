@@ -2,7 +2,10 @@
 I am starting the grind for OSCP. This will document the process. 
 
 ### Timeline So Far:
-- HTB Valentine (Easy) - Oct 22 - TBD, 2023
+- HTB Poison (Medium) - Oct 24 - Oct 25, 2023
+  - User owned: Oct 25, 2023
+  - Root owned: Oct 25, 2023
+- HTB Valentine (Easy) - Oct 22 - Oct 24, 2023
   - User owned: Oct 21, 2023
   - Root owned: Oct 22, 2023
 - HTB Node (Medium) - Oct 15 - Oct 22, 2023
