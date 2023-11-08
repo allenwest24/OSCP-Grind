@@ -2,6 +2,9 @@
 I am starting the grind for OSCP. This will document the process. 
 
 ### Timeline So Far:
+- HTB Lame (Easy) - Nov 6 - Nov 7, 2023
+  - User owned: Nov 7, 2023
+  - Root owned: Nov 7, 2023
 - HTB Cronos (Medium) - Oct 25 - Nov 6, 2023
   - User owned: Oct 28, 2023
   - Root owned: Nov 6, 2023
